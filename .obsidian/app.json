@@ -1,0 +1,31 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "mobilePullAction": "editor:insert-table",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-table",
+    "editor:insert-wikilink",
+    "editor:attach-file",
+    "editor:insert-embed",
+    "editor:toggle-checklist-status",
+    "editor:insert-tag",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "insert-current-date",
+    "insert-current-time",
+    "editor:configure-toolbar",
+    "obsidian-git:clone-repo",
+    "obsidian-git:push"
+  ]
+}
