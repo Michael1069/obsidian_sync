@@ -219,11 +219,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "252b93e1b12428c0",
+  "active": "b12089263cabf529",
   "lastOpenFiles": [
+    "/JOURNAL/hello.md",
+    "/JOURNAL",
     "JOURNAL/INTRODUCTION.md",
     "JOURNAL/hello.md",
-    "/JOURNAL/hello.md",
     "/JOURNAL/INTRODUCTION.md",
     "/JOURNAL/2026-06-03.md",
     "/JOURNAL/2026-06-02.md",
@@ -232,7 +233,6 @@
     "/JOURNAL/2026-05-30.md",
     "/JOURNAL/2026-05-29.md",
     "/JOURNAL/2026-05-28.md",
-    "/JOURNAL",
     "README.md",
     "JOURNAL/2026-05-28.md",
     "JOURNAL/2026-06-03.md",
@@ -252,7 +252,6 @@
     "JOURNAL",
     "Notes/Sample note 1.md",
     "Notes/Sample note 2.md",
-    "Michael.md",
     "Notes"
   ]
 }
