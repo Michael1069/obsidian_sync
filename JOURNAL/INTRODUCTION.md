@@ -1,3 +1,6 @@
+---
+sort_index: 500
+---
 Hey, I'm Michael, 
 I'm gonna journal myself for the next few days 
 
