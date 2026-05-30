@@ -1,8 +1,0 @@
-hi how are you???
-are you good??
-how are you??
-All good??
-
-| lmao | Pussy2 |
-| ---- | ------ |
-|      |        |
