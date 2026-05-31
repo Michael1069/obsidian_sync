@@ -1,1 +1,3 @@
-- [ ] feather ani
+- [ ] feather animation
+- [ ] leaf animation 
+- [ ] 
