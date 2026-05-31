@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOURNAL/hello.md",
+                "file": "JOURNAL/INTRODUCTION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello"
+              "title": "INTRODUCTION"
             }
           }
         ],
@@ -219,10 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "252b93e1b12428c0",
+  "active": "b12089263cabf529",
   "lastOpenFiles": [
+    "JOURNAL/Tasks.md",
     "JOURNAL/2026-06-03.md",
-    "JOURNAL/hello.md",
     "/JOURNAL/hello.md",
     "/JOURNAL",
     "JOURNAL/INTRODUCTION.md",
