@@ -1,1 +1,1 @@
-Cognitive vei
+Cognitive view explains the 
