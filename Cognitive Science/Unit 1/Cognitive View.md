@@ -1,1 +1,1 @@
-Cognitive view explains the human mind as an information processing system
+Cognitive view explains the human mind as an information processing system. 
