@@ -1,5 +1,3 @@
-
-
 ## **Definition**
 
 The **Cognitive View** explains the human mind as an **information-processing system**.
