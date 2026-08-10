@@ -9,8 +9,8 @@
                      │
        ┌─────────────┼─────────────┐
        ↓             ↓             ↓
-     DATA         BUSINESS                 USER
-                  LOGIC          INTERFACE
+     DATA         BUSINESS                   USER
+                  LOGIC             INTERFACE
        │                       │                       │
     Objects         Flow          Apps
     Records         Apex          Forms
