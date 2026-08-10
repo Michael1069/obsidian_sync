@@ -20,7 +20,8 @@ Address
 
 That's an **Account object**.
 
-Then individual rows are: > **Records**
+Then individual rows are: 
+> **Records**
 
 ```
 Account
@@ -30,10 +31,6 @@ Id       Name
 002      BMW
 003      Sathyabama
 ```
-
-Those individual rows are called:
-
-> **Records**
 
 And the columns are:
 
