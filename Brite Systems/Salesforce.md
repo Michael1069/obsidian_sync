@@ -6,7 +6,7 @@
 5. Give employees/customers interfaces to interact with it.
 
                  SALESFORCE
-                     │
+                    │
        ┌─────────────┼─────────────┐
        ↓             ↓             ↓
      DATA              BUSINESS               USER
