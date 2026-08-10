@@ -16,8 +16,9 @@
     Records                Apex                    Forms
     Fields                    Rules                Dashboards
 
-Salesforce itself uses the table analogy when explaining its data model.
 
+
+Salesforce itself uses the table analogy when explaining its data model.
 For example:
 
 ```
