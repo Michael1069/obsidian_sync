@@ -21,11 +21,14 @@ Address
 That's an **Account object**.
 
 Then individual rows are: 
+
 > **Records**
 
 And the columns are:
+
 > **Fields**  
-> 
+
+
 ```
 Account
 ────────────────────────────
