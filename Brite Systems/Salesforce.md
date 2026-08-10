@@ -20,7 +20,7 @@ Address
 
 That's an **Account object**.
 
-Then individual rows are:
+Then individual rows are: > **Records**
 
 ```
 Account
