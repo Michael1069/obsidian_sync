@@ -6,7 +6,6 @@
 5. Give employees/customers interfaces to interact with it.
 
                 Salesforce
-                    │
        ┌─────────────┼─────────────┐
        ↓             ↓             ↓
      DATA              BUSINESS               USER
