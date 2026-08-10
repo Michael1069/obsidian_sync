@@ -16,3 +16,49 @@
     Records                Apex                    Forms
     Fields                    Rules                Dashboards
 
+Salesforce itself uses the table analogy when explaining its data model.
+
+For example:
+
+```
+Account
+────────────────────
+Id
+Name
+Phone
+Industry
+Address
+```
+
+That's an **Account object**.
+
+Then individual rows are:
+
+```
+Account
+────────────────────────────
+Id       Name
+001      Microsoft
+002      BMW
+003      Sathyabama
+```
+
+Those individual rows are called:
+
+> **Records**
+
+And the columns are:
+
+> **Fields**
+
+So:
+
+|Normal database|Salesforce|
+|---|---|
+|Database|Org|
+|Table|Object|
+|Row|Record|
+|Column|Field|
+|SQL|SOQL|
+|INSERT/UPDATE/DELETE|DML|
+|Application|Salesforce App|
