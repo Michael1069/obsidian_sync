@@ -23,6 +23,9 @@ That's an **Account object**.
 Then individual rows are: 
 > **Records**
 
+And the columns are:
+> **Fields**  
+> 
 ```
 Account
 ────────────────────────────
@@ -31,10 +34,6 @@ Id       Name
 002      BMW
 003      Sathyabama
 ```
-
-And the columns are:
-
-> **Fields**
 
 So:
 
