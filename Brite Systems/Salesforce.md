@@ -5,15 +5,16 @@
 4. Automate processes
 5. Give employees/customers interfaces to interact with it.
 
-                Salesforce
+                 SALESFORCE
+                     │
        ┌─────────────┼─────────────┐
        ↓             ↓             ↓
-     DATA              BUSINESS               USER
-                  LOGIC             INTERFACE
-       │                         │                         │
-    Objects                 Flow                     Apps
-    Records                Apex                    Forms
-    Fields                    Rules                Dashboards
+     DATA         BUSINESS       USER
+                  LOGIC          INTERFACE
+       │             │             │
+    Objects         Flow          Apps
+    Records         Apex          Forms
+    Fields          Rules         Dashboards
 
 
 
